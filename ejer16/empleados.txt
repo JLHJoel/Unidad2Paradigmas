@@ -1,0 +1,8 @@
+Empleado No: 1
+Apellido: Lozano
+Nombre: Joel
+Vivo: false
+NSS: 12321
+Puesto: administrativo
+Salario: 2500
+
